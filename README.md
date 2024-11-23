@@ -3,9 +3,9 @@
 
 
 
-                                                          Hi 👋, I'm Sobia  
+                                                          # Hi 👋, I'm Sobia  
                                                
-						 A Frontend Developer from Pakistan
+						## A Frontend Developer from Pakistan
 
 	                     🎉 I recently completed the Meta Frontend Developer Professional Certificate
 

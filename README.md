@@ -1,4 +1,7 @@
-                                               Hi, I'm Sobia 👋
+                                          
+
+                                                  Hi 👋, I'm Sobia
+
 Aspiring Front-End Developer
 I specialize in creating intuitive, responsive, and optimized websites that enhance user experiences. With a strong foundation in modern front-end technologies, I am passionate about turning designs into functional, user-friendly applications.
 

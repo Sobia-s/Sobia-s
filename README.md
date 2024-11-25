@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Sobia!
 
-<h2>Excited To Develop Engaging and Intuitive Websites As a Front-End Developer</h2>
+<h2>Passionate About Developing Responsive, Engaging, and User-Centered Websites as a Front-End Developer</h2>
 
 ## Key Skills 🌟
 <p align="center">

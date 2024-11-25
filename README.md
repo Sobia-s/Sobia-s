@@ -4,7 +4,7 @@
 
 ### Excited to Develop Engaging and Intuitive Websites As a Front-End Developer
 
-## 🌟Key Skills
+## Key Skills🌟
 <p align="center">
   HTML, CSS, JavaScript, React <br>
   WordPress, Responsive Design <br>

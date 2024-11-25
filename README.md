@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Sobia!
 
-### Certified Front-End Developer passionate about developing optimized, user-friendly websites
+### Excited to Develop Engaging and Intuitive Websites As a Front-End Developer
 
 ## 🌟 Key Skills
 - HTML, CSS, JavaScript, React

@@ -12,7 +12,7 @@
   <strong>GitHub and Version Control</strong>
 </p>
 
-## 💻 My Portfolio
+## My Portfolio 💻
 Check out my portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
 
 </div>

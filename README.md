@@ -13,7 +13,7 @@
 </p>
 
 ## My Portfolio 💻
-Check out my portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
+Sobia's Portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
 
 </div>
 

@@ -5,10 +5,10 @@
 ### Excited to Develop Engaging and Intuitive Websites As a Front-End Developer
 
 ## 🌟 Key Skills
-- HTML, CSS, JavaScript, React
-- WordPress, Responsive Design
-- UI/UX Design (Figma)
-- GitHub and Version Control
+ HTML, CSS, JavaScript, React
+ WordPress, Responsive Design
+ UI/UX Design (Figma)
+ GitHub and Version Control
 
 ## 💻 My Portfolio
 Check out my portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)

@@ -4,12 +4,12 @@
 
 ### Excited to Develop Engaging and Intuitive Websites As a Front-End Developer
 
-## 🌟 Key Skills
+## 🌟Key Skills
 <p>
-HTML, CSS, JavaScript, React <br>
-WordPress, Responsive Design <br>
-UI/UX Design (Figma) <br>
-GitHub and Version Control
+  HTML, CSS, JavaScript, React <br>
+  WordPress, Responsive Design <br>
+  UI/UX Design (Figma) <br>
+  GitHub and Version Control
 </p>
 
 ## 💻 My Portfolio

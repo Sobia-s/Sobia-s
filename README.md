@@ -2,7 +2,7 @@
 
 # Hi👋, have we met yet?
 
-<h1> I'm Sobia! On a Mission to Help Businesses Thrive through Optimized Web Development</h1>
+<h2> I'm Sobia! On a Mission to Help Businesses Thrive through Optimized Web Development</h2>
 
 
 

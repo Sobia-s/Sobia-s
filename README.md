@@ -7,7 +7,7 @@
 
 
 ## Hire Me👇
-Visit My Portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
+See My work: [Visit My Portfolio](https://sobia-portfolio.netlify.app)
 
 
 

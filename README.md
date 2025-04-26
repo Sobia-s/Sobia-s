@@ -7,14 +7,14 @@
 
 ## Key Skills 🌟
 <p align="center">
-  <strong>HTML, CSS, JavaScript, React</strong><br>
-  <strong>WordPress, Responsive Design</strong><br>
+  <strong>React, JavaScript, HTML & CSS</strong><br>
+  <strong>WordPress, Responsive & Engaging Design</strong><br>
   <strong>UI/UX Design (Figma)</strong><br>
   <strong>GitHub and Version Control</strong>
 </p>
 
 ## My Portfolio 💻
-Explore my skills and projects: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
+Visit My Portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
 
 
 </div>

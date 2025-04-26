@@ -1,20 +1,21 @@
 <div align="center">
 
-# Hi there 👋, I'm Sobia!
+# Hi👋, have we met yet? I'm Sobia!
 
-<h2>Passionate About Developing User-Centered Websites as a Front-End Developer</h2>
+<h2>On a Mission to Help Businesses Thrive through Optimized Web Development</h2>
 
 
-## Key Skills 🌟
+## Hire Me👇
+Visit My Portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
+
+
+## Key Expertise 🌟
 <p align="center">
   <strong>React, JavaScript, HTML & CSS</strong><br>
   <strong>WordPress, Responsive & Engaging Design</strong><br>
   <strong>UI/UX Design (Figma)</strong><br>
   <strong>GitHub and Version Control</strong>
 </p>
-
-## Hire Me 👇
-Visit My Portfolio: [Sobia's Portfolio](https://sobia-portfolio.netlify.app)
 
 
 </div>

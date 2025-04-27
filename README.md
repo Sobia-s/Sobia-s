@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi👋, have we met yet?
+# Hi👋, I'm Sobia!
 
-<h2> I'm Sobia! On a Mission to Help Businesses Thrive through Optimized Web Development</h2>
+<h2>I Help Brands and Personal Brands Grow Through Engaging, Responsive Websites that Thrive</h2>
 
 
 

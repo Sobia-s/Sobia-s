@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Sobia-s/My-Portfolio-Website/issues/1#issuecomment-3245859691" alt="Image 1" width="200" style="margin-right: 20px;">
+  <img width="1004" height="590" alt="Image" src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" />
 <!--   <img src="URL_OF_IMAGE_2" alt="Image 2" width="200"> -->
 </p>
 

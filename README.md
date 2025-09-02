@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <img width="100" height="300" alt="Image" src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" />
-  <img width="100" height="300" alt="Image" src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" />
+  <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" />
+  <img width="400" height="300" alt="Image" src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" />
 <!--   <img src="URL_OF_IMAGE_2" alt="Image 2" width="200"> -->
 </p>
 

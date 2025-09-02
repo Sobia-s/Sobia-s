@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
 # 👋 Hi, I'm Sobia!
 
-<h3>I build fast, responsive websites that solve problems and bring ideas to life. From portfolios to interactive projects, I create digital products that delight users.</h3>
+<h2>I build fast, responsive websites that solve problems and bring ideas to life. From portfolios to interactive projects, I create digital products that delight users.</h2>
 
-🎨 <strong>Building</strong> [<strong>Lumina</strong>](https://tally.so/r/3yalkg) — a modern React portfolio template to help developers showcase their skills, build their brand, and land real opportunities.
+
 
 ---
 

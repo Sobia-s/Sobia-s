@@ -32,8 +32,6 @@
 
 <p>Build responsive websites & interactive web apps</p><br> 
 <p>Design user-friendly interfaces with a keen eye for detail</p><br>
-<p>Build responsive websites & interactive web apps</p><br> 
-<p>Design user-friendly interfaces with a keen eye for detail</p><br> 
 
 
 

@@ -6,7 +6,7 @@ From portfolios to interactive projects, I create digital products that **deligh
 
 ---
 
-## 📂 Featured Projects
+## Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="center">
   <a href="https://sobia-portfolio.netlify.app" target="_blank">

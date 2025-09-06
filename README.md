@@ -9,23 +9,12 @@ From portfolios to interactive projects, I create digital products that **deligh
 ## Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="center">
-  <a href="https://sobia-portfolio.netlify.app" target="_blank">
     <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="300" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
-  </a>
-  <a href="https://sobia-portfolio.netlify.app" target="_blank">
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="300" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
-  </a>
 </p>
 
 ✨ **Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)**
 
-
----
-
-## 🔗 Quick Links
-
-[![Join My Portfolio](https://img.shields.io/badge/Join%20Portfolio-🚀-blue?style=for-the-badge)](https://tally.so/r/3yalkg)  
-[![Visit My Work](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://sobia-portfolio.netlify.app)
 
 ---
 
@@ -47,6 +36,13 @@ From portfolios to interactive projects, I create digital products that **deligh
 - Use **React, JavaScript, HTML & CSS** for robust front-end
 - Create **modern portfolios** for developers and creatives
 - Implement **UI/UX principles** using Figma & prototyping
+
+---
+
+## 🔗 Quick Links
+
+[![Join My Portfolio](https://img.shields.io/badge/Join%20Portfolio-🚀-blue?style=for-the-badge)](https://tally.so/r/3yalkg)  
+[![Visit My Work](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://sobia-portfolio.netlify.app)
 
 ---
 

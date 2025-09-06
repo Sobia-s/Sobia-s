@@ -41,8 +41,7 @@ From portfolios to interactive projects, I create digital products that **deligh
 
 ## 🔗 Quick Links
 
-[![Join My Portfolio](https://img.shields.io/badge/Join%20Portfolio-🚀-blue?style=for-the-badge)](https://tally.so/r/3yalkg)  
-[![Visit My Work](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://sobia-portfolio.netlify.app)
+[![See My Work](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://sobia-portfolio.netlify.app)
 
 ---
 

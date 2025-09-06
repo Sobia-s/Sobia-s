@@ -9,7 +9,7 @@ From portfolios to interactive projects, I create digital products that delight 
 </p>
 
 ## 🔗 Want a Fast Portfolio?   
-[**Come Join In**]((https://tally.so/r/3yalkg)
+[**Come Join In**](https://tally.so/r/3yalkg)
 
 ---
 

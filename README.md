@@ -1,6 +1,6 @@
 <div align="left">
 
-## 👋Hi, I'm Sobia.
+<h1>👋Hi, I'm Sobia.</h1>
 <h2>I build fast, responsive websites that solve problems and bring ideas to life. 
 From portfolios to interactive projects, I create digital products that delight users. </h2>
 <p align="center">

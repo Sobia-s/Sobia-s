@@ -9,8 +9,8 @@ From portfolios to interactive projects, I create digital products that **deligh
 ## Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="300" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
-    <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="300" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
+    <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
+    <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
 </p>
 
 ✨ **Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)**

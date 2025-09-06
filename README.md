@@ -13,12 +13,12 @@ From portfolios to interactive projects, I create digital products that **deligh
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
 </p>
 
-✨ **Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)**
+✨ *Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
 
 
 ---
 
-## 🌟 My Experrise
+## My Expertise
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

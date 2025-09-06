@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Sobia
-I build **fast, responsive websites** that solve problems and bring ideas to life.  
+## I build **fast, responsive websites** that solve problems and bring ideas to life.  
 From portfolios to interactive projects, I create digital products that **delight users**.
 
 ---
@@ -13,8 +13,7 @@ From portfolios to interactive projects, I create digital products that **deligh
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
 </p>
 
-✨ *Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
-
+## ✨ *Want a fast portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
 
 ---
 
@@ -54,7 +53,7 @@ From portfolios to interactive projects, I create digital products that **deligh
 
 ---
 
-> "Turning ideas into functional, beautiful web experiences — one line of code at a time."  
+> "Turning ideas into functional, beautiful web experiences, one line of code at a time."  
 </div>
 
 

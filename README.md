@@ -13,7 +13,7 @@
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
 </p>
 
-## ✨ *Want a Fast Portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
+## ✨*Want a Fast Portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
 
 ---
 
@@ -30,11 +30,11 @@
 
 ## What I Do  
 
-- Build responsive websites & interactive web apps  
-- Design user-friendly interfaces with a keen eye for detail  
-- Use React, JavaScript, HTML & CSS for robust front-end  
-- Create modern portfolios for developers and creatives  
-- Implement UI/UX principles using Figma & prototyping  
+<p>Build responsive websites & interactive web apps</p><br> 
+<p>Design user-friendly interfaces with a keen eye for detail</p><br>
+<p>Build responsive websites & interactive web apps</p><br> 
+<p>Design user-friendly interfaces with a keen eye for detail</p><br> 
+
 
 
 ## 🔗 Quick Links

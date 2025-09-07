@@ -30,11 +30,12 @@
 
 ## What I Love  
 
-<p>— Crafting responsive websites that feel smooth and engaging</p><br>  
-<p>— Designing clean, user-friendly interfaces with precision</p><br>  
-<p>— Turning ideas into functional, interactive web experiences</p><br>  
-<p>— Blending creativity with code to bring designs to life</p><br>  
-<p>— Shaping digital products that truly connect with users</p><br>  
+<p>Crafting responsive websites that feel smooth and engaging</p>  
+<p>Designing clean, user-friendly interfaces with precision</p>  
+<p>Turning ideas into functional, interactive web experiences</p>  
+<p>Blending creativity with code to bring designs to life</p>  
+<p>Shaping digital products that truly connect with users</p>  
+
 
 ## Quick Links  
 

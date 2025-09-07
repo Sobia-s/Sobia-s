@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-## What I Do  
+## What I Love 
 
 <p>Build responsive websites & interactive web apps</p><br> 
 <p>Design user-friendly interfaces with a keen eye for detail</p><br>

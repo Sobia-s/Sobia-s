@@ -28,16 +28,19 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-## What I Love 
+## What I Love  
 
-<p>Build responsive websites & interactive web apps</p><br> 
-<p>Design user-friendly interfaces with a keen eye for detail</p><br>
+<p>— Crafting responsive websites that feel smooth and engaging</p><br>  
+<p>— Designing clean, user-friendly interfaces with precision</p><br>  
+<p>— Turning ideas into functional, interactive web experiences</p><br>  
+<p>— Blending creativity with code to bring designs to life</p><br>  
+<p>— Shaping digital products that truly connect with users</p><br>  
 
+## Quick Links  
 
+[![See My Work](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge)](https://sobia-portfolio.netlify.app)  
+[![Get Your Portfolio](https://img.shields.io/badge/Lumina-Join%20Now-blue?style=for-the-badge)](https://tally.so/r/3yalkg)  
 
-## 🔗 Quick Links
-
-[![See My Work](https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge)](https://sobia-portfolio.netlify.app)
 
 ---
 

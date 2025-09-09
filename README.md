@@ -3,6 +3,7 @@
 # About Me: 
 <p>Hi, I'm Sobia, a Frontend Web Developer, who creates fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!</p>
 
+# My Current Project
 ### Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="left">
@@ -34,13 +35,15 @@
 
 ---
 
-# Let's Connect
+
+## Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sobia-soomro/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/sobiasoomro/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---

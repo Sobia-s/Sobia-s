@@ -1,9 +1,14 @@
-<div align="center">
+<div align="left">
 
-# 👋 Hi, I'm Sobia
-## I build **fast, responsive websites** that solve problems and bring ideas to life.  
-## From portfolios to interactive projects, I create digital products that **delight users**.
-
+# About Me: 
+## Hi, I'm Sobia
+<p>I'm a Frontend Web Developer</p>
+<p>Crafting responsive websites that feel smooth and engaging</p>  
+<p>Designing clean, user-friendly interfaces with precision</p>  
+<p>Turning ideas into functional, interactive web experiences</p>  
+<p>Blending creativity with code to bring designs to life</p>  
+<p>Shaping digital products that truly connect with users</p> 
+<p>I love buildind websites and drawing</p>
 ---
 
 ## Lumina: My Dream Project, Portfolio for Web Developers
@@ -17,7 +22,7 @@
 
 ---
 
-## My Expertise
+# My Expertise:
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,13 +33,6 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-## What I Love  
-
-<p>Crafting responsive websites that feel smooth and engaging</p>  
-<p>Designing clean, user-friendly interfaces with precision</p>  
-<p>Turning ideas into functional, interactive web experiences</p>  
-<p>Blending creativity with code to bring designs to life</p>  
-<p>Shaping digital products that truly connect with users</p>  
 
 
 ## Quick Links  

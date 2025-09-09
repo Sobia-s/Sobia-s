@@ -1,19 +1,11 @@
 <div align="left">
 
 # About Me: 
-## Hi, I'm Sobia
-<p>I'm a Frontend Web Developer</p>
-<p>Crafting responsive websites that feel smooth and engaging</p>  
-<p>Designing clean, user-friendly interfaces with precision</p>  
-<p>Turning ideas into functional, interactive web experiences</p>  
-<p>Blending creativity with code to bring designs to life</p>  
-<p>Shaping digital products that truly connect with users</p> 
-<p>I love buildind websites and drawing</p>
----
+## Hi, I'm Sobia, a Frontend Web Developer, who creates fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!
 
 ## Lumina: My Dream Project, Portfolio for Web Developers
 
-<p align="center">
+<p align="left">
     <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
 </p>
@@ -23,7 +15,7 @@
 ---
 
 # My Expertise:
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

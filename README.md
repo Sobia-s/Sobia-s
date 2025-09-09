@@ -3,8 +3,7 @@
 # About Me: 
 <p>Hi, I'm Sobia, a Frontend Web Developer, who creates fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!</p>
 
-## My Dream Project
-### Lumina: Portfolio for Web Developers
+### Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="left">
     <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
@@ -16,9 +15,6 @@
 ---
 
 # My Expertise
-
----
-
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -29,16 +25,13 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
-<p>I build modern, responsive, and user-friendly web experiences. Always exploring new tools and techniques to enhance my Web Development skills.</p>
-
+<p>I create modern, responsive websites and always explore new ways to make them engaging and user-friendly.</p>
 
 ---
 
 ## ✨*My Portfolio [See My Work!](https://sobia-portfolio.netlify.app/)*
 
-
 ---
-
 
 ## Let's Connect:
 

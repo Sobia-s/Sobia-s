@@ -1,9 +1,9 @@
 <div align="left">
 
 # About Me: 
-## Hi, I'm Sobia, a Frontend Web Developer, who creates fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!
+<p>Hi, I'm Sobia, a Frontend Web Developer, who creates fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!</p>
 
-## Lumina: My Dream Project, Portfolio for Web Developers
+### Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="left">
     <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
@@ -36,7 +36,7 @@
 ---
 
 ## 📫 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/sobia-soomro/" target="_blank">LinkedIn</a> • 
   <a href="https://github.com/sobia-soomro" target="_blank">GitHub</a> • 
   <a href="https://sobia-portfolio.netlify.app" target="_blank">Portfolio</a>

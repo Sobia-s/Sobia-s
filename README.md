@@ -25,22 +25,23 @@
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
+<p>Always Passionate to learn something new in Web Development!</p>
 
+---
 
-## Quick Links  
-
-[![See My Work](https://img.shields.io/badge/Portfolio-View-brightgreen?style=for-the-badge)](https://sobia-portfolio.netlify.app)  
-[![Get Your Portfolio](https://img.shields.io/badge/Lumina-Join%20Now-blue?style=for-the-badge)](https://tally.so/r/3yalkg)  
+## ✨*My Portfolio [See My Work!](https://sobia-portfolio.netlify.app/)*
 
 
 ---
 
-## 📫 Connect With Me
+# Let's Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/sobia-soomro/" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/sobia-soomro" target="_blank">GitHub</a> • 
-  <a href="https://sobia-portfolio.netlify.app" target="_blank">Portfolio</a>
+  <a href="https://www.linkedin.com/in/sobia-soomro/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 

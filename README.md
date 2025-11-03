@@ -6,15 +6,15 @@
 ### Lumina: My Dream Project, Portfolio for Web Developers
 
 <p align="left">
-  <a href="https://tally.so/r/3yalkg">
+  <a href="https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template">
     <img src="https://github.com/user-attachments/assets/d7044ac9-af8c-4f77-80b9-37bf54c5adf5" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
   </a>
-  <a href="https://tally.so/r/3yalkg">
+  <a href="https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template">
     <img src="https://github.com/user-attachments/assets/9ccfa2c4-1fa8-4852-bd80-1a4c87a4e690" width="400" style="border-radius:15px; box-shadow:0 5px 15px rgba(0,0,0,0.2);" />
   </a>
 </p>
 
-## ✨*Want a Fast Portfolio? [Come, Join In!](https://tally.so/r/3yalkg)*
+## ✨*Launch Your Storytelling Portfolio In a Day [Lumina is here!](https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template)*
 
 ---
 

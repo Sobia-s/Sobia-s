@@ -3,7 +3,7 @@
 # About Me: 
 <p>Hi, I'm Sobia, a Frontend Web Developer. I create fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and drawing!</p>
 
-### Lumina: My Dream Project, Portfolio for Web Developers
+### Lumina: My Dream Storytelling Portfolio for Developers
 
 <p align="left">
   <a href="https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template">

@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## ✨*Launch your storytelling portfolio in a day, build once, scale forever, and let people understand you at first glance: [Lumina is here!](https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template)*
+## Launch your storytelling portfolio in a day, build once, scale forever, and let people understand you at first glance: [Lumina is here!](https://sobia.gumroad.com/l/lumina-reactjs-portfolio-template)
 
 ---
 

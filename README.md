@@ -1,6 +1,5 @@
 <div align="left">
-
-# About Me: 
+  
 <p>Hi, I'm Sobia, a Frontend Web Developer. I create fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and digital products!</p>
 
 ### Lumina: My Dream Storytelling Portfolio for Developers

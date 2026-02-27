@@ -1,8 +1,5 @@
 <div align="left">
-  
-<p style="font-size: 2rem; line-height:1.5;">
-  Hi, I'm Sobia, a Frontend Web Developer. I create fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and digital products!
-</p>
+  ### Hi, I'm Sobia, a Frontend Web Developer. I create fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and digital products!
 
 ### Lumina: My Dream Storytelling Portfolio for Developers
 

@@ -31,7 +31,7 @@
 
 <p>I create modern, responsive websites and always explore new ways to make them engaging and user-friendly.</p>
 
-## ✨*[My Product](https://react-portfolio-template-indol.vercel.app/)|[My Portfolio](https://sobia-portfolio.netlify.app/)|[My LinkedIn](https://www.linkedin.com/in/sobiasoomro/)|[Customer Story](https://www.linkedin.com/pulse/lighting-way-developers-inside-lumina-new-kind-portfolio-wilcox-zwige/?trackingId=ChqsGk8XRICPoiimAweCMg%3D%3D)*
+## ✨*[My Product](https://react-portfolio-template-indol.vercel.app/) | [My Portfolio](https://sobia-portfolio.netlify.app/) | [My LinkedIn](https://www.linkedin.com/in/sobiasoomro/) | [Customer Story](https://www.linkedin.com/pulse/lighting-way-developers-inside-lumina-new-kind-portfolio-wilcox-zwige/?trackingId=ChqsGk8XRICPoiimAweCMg%3D%3D)*
 
 ---
 

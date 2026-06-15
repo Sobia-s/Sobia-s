@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sobia, a Frontend Web Developer. I create fast and responsive websites that solve problems, delight users, and bring ideas to life. I love building websites and digital products!
 
-### Lumina: My Storytelling Portfolio System for Developers
+### Lumina: Not Just A Template, A Complete System
 
 <p align="left">
   <a href="https://lumina-portfolio-system.vercel.app/">

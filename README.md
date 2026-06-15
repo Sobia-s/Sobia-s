@@ -13,7 +13,7 @@
   </a>
 </p>
 
-## Launch a storytelling portfolio in a day — build once, scale forever, and let your work speak clearly: [Explore Lumina](https://lumina-portfolio-system.vercel.app/)
+## Launch your career portfolio in a day, build once, scale forever: [Explore Lumina](https://lumina-portfolio-system.vercel.app/)
 
 ---
 
